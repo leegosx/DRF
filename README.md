@@ -14,7 +14,7 @@ This is a simple Contact API built with Django Rest Framework (DRF). It allows u
 - Update existing contact
 - Delete contact
 
-![API Overview](https://www.dropbox.com/scl/fi/bm9xipbha1c31hde3ratw/apioverview.png?rlkey=n5ny3f148tfri38269k6ul61g&?raw=1)
+![API Overview](https://www.dropbox.com/scl/fi/bm9xipbha1c31hde3ratw/apioverview.png?rlkey=n5ny3f148tfri38269k6ul61g&raw=1)
 
 ## Installation
 
